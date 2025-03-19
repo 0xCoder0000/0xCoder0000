@@ -9,7 +9,7 @@
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+👋;I'm+29+years+old;I'm+a+programmer+and+an+IT+profissional;Be+Welcome+to+github+profile!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=I'm+a+programmer+and+an+IT+profissional;Be+Welcome+to+github+profile!+:%29)
 <br>
 <br>
 
@@ -23,13 +23,13 @@
 ![](./src/header_.png)
 <!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a> -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github perfil be welcome.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github profile be welcome.
 
 <p>
-    <a href="https://github.com/bhza/bhza"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/bhza/bhza/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
-    <a href="https://github.com/bhza/bhza/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
-    <a href="https://github.com/bhza/bhza/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/tobi8068/tobi8068"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/tobi8068/tobi8068/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/tobi8068/tobi8068/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/tobi8068/tobi8068/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
     <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
