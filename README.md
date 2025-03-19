@@ -63,15 +63,7 @@ _I am open to new opportunities/contributions._
 
 ## 🔎 You can find me on:
 
-<a href="mailto:bruno.fateclins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/bhza/)
-
-<a href="https://www.youtube.com/channel/UCHOtNnW5KY9fkbPJcXdUkLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/bruunows" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:bruno.almeida81@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:vv0415v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
 
@@ -84,21 +76,13 @@ _I am open to new opportunities/contributions._
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tobi8068&show_icons=true&theme=radical" alt="Tobi GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&theme=tokyonight">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tobi8068&theme=tokyonight">
     </td>
   </tr>
 </table>
-
-
----
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 
 
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
