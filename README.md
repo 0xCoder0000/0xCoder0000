@@ -26,10 +26,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, this is my github profile be welcome.
 
 <p>
-    <a href="https://github.com/tobi8068/tobi8068"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/tobi8068/tobi8068/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
-    <a href="https://github.com/tobi8068/tobi8068/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
-    <a href="https://github.com/tobi8068/tobi8068/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/0xCoder0000/0xCoder0000"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/0xCoder0000/0xCoder0000/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/0xCoder0000/0xCoder0000/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/0xCoder0000/0xCoder0000/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
     <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
@@ -72,10 +72,10 @@ _I am open to new opportunities/contributions._
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tobi8068&show_icons=true&theme=radical" alt="Tobi GitHub Stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xCoder0000&show_icons=true&theme=radical" alt="Tobi GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tobi8068&theme=tokyonight">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xCoder0000&theme=tokyonight">
     </td>
   </tr>
 </table>
