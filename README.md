@@ -319,18 +319,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/bruno-henrique/) for a 
 
 <br>
 
-## 📈 Github contributions and commits 
-
-<br>
-
-![image](https://github.com/user-attachments/assets/4010597d-27af-46fe-80f9-1f0e3b637508)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/126ddf2f-dfff-476f-95ea-27742d58310b)
-
-<br>
-
 ## 🐍 Classic Old Snake ( Make by me with blobs, dont jugde me)  :
 
 <br>
