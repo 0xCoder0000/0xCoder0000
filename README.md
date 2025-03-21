@@ -335,15 +335,15 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/bruno-henrique/) for a 
 
 <br>
 
-![snake gif](https://github.com/bhza/bhza/blob/output/github-snake-dark.svg) 
+![snake gif](https://github.com/0xCoder0000/0xCoder0000/blob/output/github-snake-dark.svg) 
 
 <br>
 
-![snake gif](https://github.com/bhza/bhza/blob/output/github-snake.svg) 
+![snake gif](https://github.com/0xCoder0000/0xCoder0000/blob/output/github-snake.svg) 
 
 <br>
 
-![snake gif](https://github.com/bhza/bhza/blob/output/ocean.gif) 
+![snake gif](https://github.com/0xCoder0000/0xCoder0000/blob/output/ocean.gif) 
 
 <br>
 
@@ -354,7 +354,7 @@ counting of visitors to this page in this section started from June 30, 2023
 
 <br><br>
 
-![](https://count.getloli.com/get/@bhza.github.readme)
+![](https://count.getloli.com/get/@0xCoder0000.github.readme)
 
 <br><br>
 
